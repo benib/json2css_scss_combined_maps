@@ -1,0 +1,19 @@
+{
+  "name": "json2css_scss_combined_maps",
+  "version": "0.0.1",
+  "description": "A json2css template leading to one scss map per sprite (combination of images)",
+  "main": "scss_combined_maps.template.mustache",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benib/json2css_scss_combined_maps.git"
+  },
+  "author": "Beni Buess <bb@xiala.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benib/json2css_scss_combined_maps/issues"
+  },
+  "homepage": "https://github.com/benib/json2css_scss_combined_maps"
+}
